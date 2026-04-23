@@ -55,10 +55,43 @@ namespace ProcessingModule
         /// Acquisitor thread logic.
         /// </summary>
 		private void Acquisition_DoWork()
-		{
-            //TO DO: IMPLEMENT
-        }
+        {
+            while (true)
+            {
+                try
+                {
+                    acquisitionTrigger.WaitOne(1000);
 
+                    foreach (IConfigItem item in configuration.GetConfigurationItems())
+                    {
+                        if (item.RegistryType == PointType.DIGITAL_OUTPUT)
+                        {
+                            item.SecondsPassedSinceLastPoll++;
+
+                            if (item.SecondsPassedSinceLastPoll >= item.AcquisitionInterval)
+                            {
+                                processingManager.ExecuteReadCommand(
+                                    item,
+                                    configuration.GetTransactionId(),
+                                    configuration.UnitAddress,
+                                    item.StartAddress,
+                                    item.NumberOfRegisters
+                                );
+
+                                stateUpdater.LogMessage(
+                                   $"Polling coil {item.Description} sa adrese {item.StartAddress}");
+
+                                item.SecondsPassedSinceLastPoll = 0;
+                            }
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    stateUpdater.LogMessage("Acquisition error: " + ex.Message);
+                }
+            }
+        }
         #endregion Private Methods
 
         /// <inheritdoc />

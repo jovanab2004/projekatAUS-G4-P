@@ -6,3 +6,12 @@ C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Modbus.dl
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\bin\Debug\Common.pdb
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.dll
 C:\Users\Racunar1\Desktop\Ognjen\SCADA\dCom\ProcessingModule\obj\Debug\ProcessingModule.pdb
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\bin\Debug\ProcessingModule.dll
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\bin\Debug\ProcessingModule.pdb
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\bin\Debug\Common.dll
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\bin\Debug\Common.pdb
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\obj\Debug\ProcessingModule.csproj.AssemblyReference.cache
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\obj\Debug\ProcessingModule.csproj.CoreCompileInputs.cache
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\obj\Debug\Processi.B4D6C848.Up2Date
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\obj\Debug\ProcessingModule.dll
+C:\Users\asusa\OneDrive\Desktop\projekatAus\ProcessingModule\obj\Debug\ProcessingModule.pdb
