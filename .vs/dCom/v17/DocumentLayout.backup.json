@@ -3,12 +3,148 @@
   "WorkspaceRootPath": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\pointviewmodels\\digitaloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitaloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\controlwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\controlwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\pointtypetovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +155,12 @@
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\dcom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -55,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,45 +203,473 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReadInputRegistersFunction.cs",
-              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwEAAAAAJAAAAAAAAAA==",
+              "Title": "DigitalOutput.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T19:27:12.052Z",
+              "WhenOpened": "2026-04-23T20:21:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "dCom\\Utils\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeToolTip": "dCom\\Utils\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigurationException.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeDocumentMoniker": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeToolTip": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriteSingleCoilFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:53:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WriteSingleRegisterFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:53:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePointItem.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:18:21.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AnalaogInput.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:18:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalogOutput.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:22:12.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:01:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:01:24.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml.cs",
+              "RelativeDocumentMoniker": "dCom\\ControlWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml.cs",
+              "RelativeToolTip": "dCom\\ControlWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:57:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml",
+              "RelativeDocumentMoniker": "dCom\\ControlWindow.xaml",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml",
+              "RelativeToolTip": "dCom\\ControlWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T15:45:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PointTypeToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\PointTypeToVisibilityConverter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConnectionStateToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlarmToBackgroundColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:13:20.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfigItemEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:12:42.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:12:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStateUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IStateUpdater.cs",
+              "RelativeDocumentMoniker": "Common\\IStateUpdater.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IStateUpdater.cs",
+              "RelativeToolTip": "Common\\IStateUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:10:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IStorage.cs",
+              "RelativeDocumentMoniker": "Common\\IStorage.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IStorage.cs",
+              "RelativeToolTip": "Common\\IStorage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:10:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IProcessingManager.cs",
+              "RelativeDocumentMoniker": "Common\\IProcessingManager.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IProcessingManager.cs",
+              "RelativeToolTip": "Common\\IProcessingManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:06:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:05:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\AutomationManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\AutomationManager.cs",
+              "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:10:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAnalogPoint.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IAnalogPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IAnalogPoint.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IAnalogPoint.cs",
+              "RelativeToolTip": "Common\\IAnalogPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:05:42.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ProcessingManager.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\ProcessingManager.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
               "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\ProcessingManager.cs",
               "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T17:22:55.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReadCoilsFunction.cs",
-              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "EGUConverter.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\EGUConverter.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\EGUConverter.cs",
+              "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T16:28:30.447Z",
+              "WhenOpened": "2026-04-23T20:10:13.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
+              "Title": "IPoint.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IPoint.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IPoint.cs",
+              "RelativeToolTip": "Common\\IPoint.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:06:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PointIdentifierHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\PointIdentifierHelper.cs",
+              "RelativeDocumentMoniker": "Common\\PointIdentifierHelper.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\PointIdentifierHelper.cs",
+              "RelativeToolTip": "Common\\PointIdentifierHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:01:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFunctionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IFunctionExecutor.cs",
+              "RelativeDocumentMoniker": "Common\\IFunctionExecutor.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IFunctionExecutor.cs",
+              "RelativeToolTip": "Common\\IFunctionExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:06:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDigitalPoint.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IDigitalPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IDigitalPoint.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IDigitalPoint.cs",
+              "RelativeToolTip": "Common\\IDigitalPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:06:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IConfiguration.cs",
+              "RelativeDocumentMoniker": "Common\\IConfiguration.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IConfiguration.cs",
+              "RelativeToolTip": "Common\\IConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:05:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IConfigItem.cs",
+              "RelativeDocumentMoniker": "Common\\IConfigItem.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IConfigItem.cs",
+              "RelativeToolTip": "Common\\IConfigItem.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:05:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IAutomationManager.cs",
+              "RelativeDocumentMoniker": "Common\\IAutomationManager.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IAutomationManager.cs",
+              "RelativeToolTip": "Common\\IAutomationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:05:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
+              "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
+              "RelativeToolTip": "Common\\IModbusFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:42:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:01:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReadInputRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T19:27:12.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ModbusFunction.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
@@ -130,20 +682,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 35,
               "Title": "Acquisitor.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\Acquisitor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
               "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\ProcessingModule\\Acquisitor.cs",
               "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAHUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T15:29:59.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 38,
               "Title": "RtuCfg.txt",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\RtuCfg.txt",
               "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
@@ -156,32 +708,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 37,
               "Title": "ReadHoldingRegistersFunction.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
               "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
               "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T19:26:56.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ControlWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml",
-              "RelativeDocumentMoniker": "dCom\\ControlWindow.xaml",
-              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\ControlWindow.xaml",
-              "RelativeToolTip": "dCom\\ControlWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-23T15:45:33.052Z",
+              "DocumentIndex": 39,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:28:30.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 40,
               "Title": "ModbusReadCommandParameters.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
               "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
@@ -194,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 43,
               "Title": "TCPConnection.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\Connection\\TCPConnection.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\TCPConnection.cs",
@@ -207,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 44,
               "Title": "IConnection.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\Connection\\IConnection.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\IConnection.cs",
@@ -220,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 45,
               "Title": "FunctionExecutor.cs",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Modbus\\Connection\\FunctionExecutor.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\FunctionExecutor.cs",
@@ -233,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\MainWindow.xaml",
               "RelativeDocumentMoniker": "dCom\\MainWindow.xaml",
@@ -245,19 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConfigReader.cs",
-              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
-              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T15:05:34.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 46,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -266,18 +807,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
               "WhenOpened": "2026-04-23T14:47:10.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IModbusFunction.cs",
-              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
-              "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
-              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
-              "RelativeToolTip": "Common\\IModbusFunction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T14:42:44.148Z"
             }
           ]
         }
