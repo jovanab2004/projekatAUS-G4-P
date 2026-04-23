@@ -64,11 +64,11 @@ namespace ProcessingModule
 
                     foreach (IConfigItem item in configuration.GetConfigurationItems())
                     {
+                        item.SecondsPassedSinceLastPoll++;
+
                         if (item.RegistryType == PointType.DIGITAL_OUTPUT)
                         {
-                            item.SecondsPassedSinceLastPoll++;
-
-                            if (item.SecondsPassedSinceLastPoll >= item.AcquisitionInterval)
+                            if (item.SecondsPassedSinceLastPoll >= 2)
                             {
                                 processingManager.ExecuteReadCommand(
                                     item,
@@ -79,7 +79,27 @@ namespace ProcessingModule
                                 );
 
                                 stateUpdater.LogMessage(
-                                   $"Polling coil {item.Description} sa adrese {item.StartAddress}");
+                                    $"Polling coil {item.Description}");
+
+                                item.SecondsPassedSinceLastPoll = 0;
+                            }
+                        }
+
+                        if (item.RegistryType == PointType.ANALOG_INPUT ||
+                            item.RegistryType == PointType.ANALOG_OUTPUT)
+                        {
+                            if (item.SecondsPassedSinceLastPoll >= 4)
+                            {
+                                processingManager.ExecuteReadCommand(
+                                    item,
+                                    configuration.GetTransactionId(),
+                                    configuration.UnitAddress,
+                                    item.StartAddress,
+                                    item.NumberOfRegisters
+                                );
+
+                                stateUpdater.LogMessage(
+                                    $"Polling analog {item.Description}");
 
                                 item.SecondsPassedSinceLastPoll = 0;
                             }
