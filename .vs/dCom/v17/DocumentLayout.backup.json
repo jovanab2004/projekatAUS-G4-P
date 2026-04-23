@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asusa\\OneDrive\\Desktop\\aus\\dCom\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|c:\\users\\asusa\\onedrive\\desktop\\projekataus\\common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
+              "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
+              "ToolTip": "C:\\Users\\asusa\\OneDrive\\Desktop\\projekatAus\\Common\\IModbusFunction.cs",
+              "RelativeToolTip": "Common\\IModbusFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:42:44.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
