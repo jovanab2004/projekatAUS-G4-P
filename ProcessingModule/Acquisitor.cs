@@ -60,7 +60,7 @@ namespace ProcessingModule
             {
                 try
                 {
-                    acquisitionTrigger.WaitOne(1000);
+                   acquisitionTrigger.WaitOne();
 
                     foreach (IConfigItem item in configuration.GetConfigurationItems())
                     {

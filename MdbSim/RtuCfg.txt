@@ -1,9 +1,9 @@
 STA 44
 TCP 44376
 
-DO_REG  1 4400  0  0     1     0  DO  @STOP      #
-DO_REG  1 4402  0  0     1     0  DO  @Ventil_V1 #
-DO_REG  1 4405  0  0     1     0  DO  @P1        #
-DO_REG  1 4406  0  0     1     0  DO  @P2        #
-IN_REG  1 2100  0  0  4095  2000  AI  @Nivo_Vode #
-HR_INT  1 4300  0  0  4095  1200  AO  @Motor_N1  #
+DO_REG  1 4400  0  0     1     0  DO  @STOP      2
+DO_REG  1 4402  0  0     1     0  DO  @Ventil_V1 2
+DO_REG  1 4405  0  0     1     0  DO  @P1        2
+DO_REG  1 4406  0  0     1     0  DO  @P2        2
+IN_REG  1 2100  0  0  4095  2000  AI  @Nivo_Vode 4
+HR_INT  1 4300  0  0  4095  1200  AO  @Motor_N1  4
