@@ -27,7 +27,6 @@ namespace Modbus.ModbusFunctions
             ModbusWriteCommandParameters mwcp = CommandParameters as ModbusWriteCommandParameters;
             byte[] mdbRequest = new byte[12];
 
-            // MBAP Header
             mdbRequest[0] = (byte)(mwcp.TransactionId >> 8);
             mdbRequest[1] = (byte)mwcp.TransactionId;
             mdbRequest[2] = 0;
@@ -36,13 +35,11 @@ namespace Modbus.ModbusFunctions
             mdbRequest[5] = 6;
             mdbRequest[6] = mwcp.UnitId;
 
-            // PDU
-            mdbRequest[7] = mwcp.FunctionCode; // 05
+            mdbRequest[7] = mwcp.FunctionCode;
             ushort adjustedAddress = mwcp.OutputAddress;
             mdbRequest[8] = (byte)(adjustedAddress >> 8);
             mdbRequest[9] = (byte)adjustedAddress;
 
-            // Logika za Coil vrednost: 1 -> 0xFF00, 0 -> 0x0000
             ushort coilValue = (ushort)(mwcp.Value != 0 ? 0xFF00 : 0x0000);
             mdbRequest[10] = (byte)(coilValue >> 8);
             mdbRequest[11] = (byte)coilValue;
@@ -57,9 +54,7 @@ namespace Modbus.ModbusFunctions
 
             if (response[7] > 0x80) { HandeException(response[8]); }
 
-            // Odgovor kod upisa je "eho" zahteva - bajtovi 10 i 11 sadrže potvrđenu vrednost
             ushort confirmedValue = (ushort)((response[10] << 8) | response[11]);
-            // Vraćamo u 0 ili 1 za dComm tabelu
             ushort displayValue = (ushort)(confirmedValue == 0xFF00 ? 1 : 0);
 
             result.Add(new Tuple<PointType, ushort>(PointType.DIGITAL_OUTPUT, mwcp.OutputAddress), displayValue);
